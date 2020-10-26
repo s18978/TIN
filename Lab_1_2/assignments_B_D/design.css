@@ -1,0 +1,14 @@
+/* assignment D
+1. Define style and size of font for form elements
+2. Define colors for field labels
+(mandatory fields should have different color from other fields) */
+
+form {
+	background: LightGray;
+	font-style: normal;
+  font-size: 30px;
+}
+
+.mandatory {
+	color: red;
+}

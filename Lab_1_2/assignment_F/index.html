@@ -1,0 +1,86 @@
+<!-- assignment F -->
+<!-- Create a HTML page and CSS file meeting the following requirements:
+
+1. The page’s content should be put into a rectangle area, equidistant from
+both sides of the browser window (the margins should be automatically resized
+depending on the size of the browser window). The rectangle should have
+a different background color than the rest of the page
+
+2. At the top of the page there should be a banner, also equidistant from both
+sides of the browser window. The banner should have a border and be connected
+to the page content
+
+3. The page content should contain several articles, each of them should:
+
+a. have a header, which uses non-standard font size and is underlined
+(without the use of the <u> tag) and has a left margin of arbitrary, non-zero size
+
+b. the article should have a left margin of arbitrary, non-zero size,
+larger than the header’s margin
+
+c. have a border and a non-standard background color
+
+d. text should be equidistant from all of the border lines
+
+e. articles should contain links, which change color when
+mouse cursor hovers over them -->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title> assignment F </title>
+	<link rel="stylesheet" href="design.css">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+
+	<div class="banner_image">
+		<h1 class="banner_text" align="center"> The most famous wizards of Harry Potter's Magic World history <h1> <br>
+	</div>
+
+  <div>
+    <h2 class="header"> Middle ages wizards <h2>
+      <ol>
+    			<ul type="circle" >
+            <li> Godric Gryffindor </li>
+            <li> Helga Hufflepuff </li>
+            <li> Rowena Ravenclaw </li>
+            <li> Salazar Slytherin </li>
+    				<li> Alberta Toothill (1391–1483) </li>
+    				<li> Antioch Peverell (1214–prior 1292) </li>
+            <li> Bridget Wenlock (1202–1285) </li>
+            <li> Cadmus Peverell (prior 1214–prior 1292) </li>
+            <li> Bridget Wenlock (1202–1285) </li>
+            <li> Chauncey Oldridge (1342–1379) </li>
+    			</ul>
+    	</ol>
+	</div>
+
+	<div>
+    <h2 class="header"> Modern time wizards <h2>
+      <ol>
+    			<ul type="circle" >
+            <li> Harry Potter </li>
+            <li> Albus Dumbledore </li>
+            <li> Severus Snape </li>
+            <li> Minerva MacConnagal </li>
+    				<li> Sirius Black </li>
+    				<li> Remus Lupin </li>
+            <li> Tomas Riddle (Lord Voldemort) </li>
+            <li> Lucius Malfoy </li>
+            <li> James Potter </li>
+            <li> Lily Potter </li>
+    			</ul>
+    	</ol>
+</div>
+	<div>
+		<h2 class="header"> Short history of Wizarding World <h2>
+      <p> The wizarding world that we know today developed over centuries of interaction with the Muggle world,
+        starting as allies and friends and over the years withdrawing under suspicion and persecution.
+        Many, many events make up this vast tapestry of
+  			<a class="link" href="https://www.hp-lexicon.org/timeline/master-timeline/the-history-of-the-wizarding-world/">history</a>
+  		, and all of them deserved to be known. </p>
+  </div>
+
+</body>
+</html>
