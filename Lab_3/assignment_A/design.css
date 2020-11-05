@@ -1,0 +1,65 @@
+.headerImg {
+  width: 350px; height: 150px;
+  margin-left: auto; margin-right: auto;
+  background: url('https://deadline.com/wp-content/uploads/2020/07/disney-world-orlando.jpg?w=1000');
+  background-size: cover;
+  border-radius: 8px;
+  transform: rotate(2deg);
+  -webkit-filter: drop-shadow(16px 10px 10px rgba(0,0,0,1));
+}
+header {
+	display: flex;
+	flex-direction: column;
+  justify-content: space-between;
+	align-items: center;
+}
+
+h1 {
+	text-align: center;
+	column-span: all
+}
+
+body {
+	background-color: Aliceblue;
+}
+
+@media screen and (min-width: 800px) {
+	.flexbox {
+		display: flex;
+		flex-direction: row;
+
+	}
+
+	.columns {
+		column-count: 3;
+		column-gap: 30px;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	.flexbox {
+		display: flex;
+		flex-direction: column-reverse;
+	}
+
+	.columns {
+		column-count: 3;
+	}
+}
+
+.leftImg {
+	float: left;
+  border: 10px solid #00000000;
+}
+
+.rightImg {
+	float: right;
+  border: 10px solid #00000000;
+}
+
+blockquote {
+	float: right;
+	margin: auto;
+	padding: auto;
+	color: #444;
+}

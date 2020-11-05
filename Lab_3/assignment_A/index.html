@@ -1,0 +1,98 @@
+<!-- assignment A
+Use Flexbox and other properties to create a webpage meeting the following requirements:
+
+- Header, using an image with rounded corners, rotated and casting shadow + text
+
+- Gallery, located on the left, containing images with captions (use tags figure and figcaption!)
+- Text on the right (at least 5-6 paragraphs) + images and pulled quotes.
+Text should be wrapped around images and pulled quotes. Pulled quotes should be formatted
+to stand out from surrounding text. Text should be divided into columns, number of columns
+should change dynamically depending on available space to maintain readability
+- Footer – always at the end of the document
+- Use semantic markup, remember about alt attributes
+- On devices with <800 pixels width text should be displayed in a single column, gallery
+should be located after text
+- (option) import two fonts, use one for headers and pulled quotes, second for main text and captions
+- Background, colors – it is up to you
+
+https://media1.popsugar-assets.com/files/thumbor/jRRnLvGEpvCfTYAIp-ITXf1MqxM/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/03/07/754/n/24155406/tmp_VfpcNy_e43b8b882f3bb9c8_cody-board-782797-unsplash.jpg
+https://blooloop.com/wp-content/uploads/2020/07/cinderella-castle-magic-kingdom-e1594288297280.jpg
+https://deadline.com/wp-content/uploads/2020/07/disney-world-orlando.jpg?w=1000
+https://cdn.vox-cdn.com/thumbor/LrrW6k7wk_0eAYltTlxk89TwGUU=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21713909/WDW_Resort_1536x1024.jpg
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title> assignment A </title>
+	<link rel="stylesheet" href="design.css">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+	<header>
+		<h1 class="headerImg" alt="titleImg" > Disney World </h1>
+  </header>
+
+<div class="flexbox">
+	<aside>
+    <figure>
+				<img src="https://i0.wp.com/www.disneytouristblog.com/wp-content/uploads/2019/06/villains-after-hours-magic-kingdom-disney-world-2025.jpg?resize=800%2C528&ssl=1"
+					width="250" height="150" alt="DisneyParkViewImg">
+				<figcaption> Disney park view </figcaption> </figure>
+
+        <figure>
+				<img src="https://i.insider.com/5ab2ba687708e963133fec3a?width=1100&format=jpeg&auto=webp"
+					width="250" height="150" alt="WaltDisneyStatueImg">
+				<figcaption> Walt Disney statue </figcaption> </figure>
+
+        <figure>
+				<img src="https://media1.popsugar-assets.com/files/thumbor/jRRnLvGEpvCfTYAIp-ITXf1MqxM/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/03/07/754/n/24155406/tmp_VfpcNy_e43b8b882f3bb9c8_cody-board-782797-unsplash.jpg"
+					width="250" height="150" alt="DisneyCastleImg">
+				<figcaption> Disney Castle </figcaption> </figure>
+
+        <figure>
+				<img src="https://blooloop.com/wp-content/uploads/2020/07/cinderella-castle-magic-kingdom-e1594288297280.jpg"
+					width="250" height="150" alt="DisneyCastleImg">
+				<figcaption> Disney Castle </figcaption> </figure>
+	</aside>
+
+	<div class="columns">
+		<article>
+		<h2> Walt Disney </h2>
+    Walt Disney was born on December 5, 1901. Disney became one of the best-known motion picture producers in the world. He is particularly noted for being a film producer and a popular showman, as well as an innovator in animation and theme park design.
+    His one of the most famous quotes was very inspiring one:
+			<blockquote> <p> "All our dreams can come true, if we have the courage to pursue them. </p> </blockquote>
+      <img class="leftImg"src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Walt_disney_portrait.jpg/240px-Walt_disney_portrait.jpg"
+      width="110" height="110" alt="leftImgg"> <br> <br>
+		<div/>
+      Walt Disney's first success was through the series "Oswald the Lucky Rabbit" which was created by the Disney studio for Charles Mintz of Universal Studios.
+			He moved to California in the early 1920s and set up the Disney Brothers Studio with his brother Roy. With Ub Iwerks, Walt developed the character Mickey Mouse in 1928, his first highly popular success; he also provided the voice for his creation in the early years.
+      As the studio grew, Disney became more adventurous, introducing synchronized sound, full-color three-strip Technicolor, feature-length cartoons and technical developments in cameras.
+		<div/>
+		</article>
+
+		<article>
+		<h2> Mickey Mouse </h2>
+    Mickey Mouse is a cartoon character created in 1928 at Walt Disney Animation Studios who serves as the mascot of Disney.
+			<img class="imgRight" src="https://dynaimage.cdn.cnn.com/cnn/q_auto,h_600/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F171115164148-01-mickey-mouse.jpg"
+			width="170" height="90" alt="rightImg">
+      An anthropomorphic mouse who typically wears red shorts, large yellow shoes, and white gloves, Mickey is one of the world's most recognizable fictional characters.
+			Created as a replacement for a prior Disney character, Oswald the Lucky Rabbit, Mickey first appeared in the short Plane Crazy, debuting publicly in the short film Steamboat Willie (1928), one of the first sound cartoons.
+		</article>
+
+		<article>
+		<h2> First Disney park </h2>
+    Disney Parks is one of The Walt Disney Company's six major business segments and a subsidiary. First one, Magic Kingdom at Walt Disney World Resort in Bay Lake, Florida, was opened on 1971.
+		</article>
+
+		<article>
+		<h2> Animated films </h2>
+    Snow White and the Seven Dwarfs (1937), Pinocchio, Fantasia (both 1940), Dumbo (1941), and Bambi (1942), furthered the development of animated film. New animated and live-action films followed after World War II, including the critically successful Cinderella (1950) and Mary Poppins (1964), the latter of which received five Academy Awards.
+		</article>
+	</div>
+</div>
+</body>
+<footer>
+</footer>
+</html>
