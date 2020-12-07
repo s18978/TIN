@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><title><%= title %></title>
+    <link rel='stylesheet' href='./stylesheets/style.css' />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <script src="./javascripts/json.js"></script></head>
+<body>
+<form>
+    <label for="n1"> 1st number: </label>
+    <input id="n1" type="number" name="n1" size="30" required><br/>
+    <label for="n2"> 2nd number: </label>
+    <input id="n2" type="number" name="n2" size="30" required><br/>
+    <label for="operation"> operation: </label>
+    <select id="operation" name="operation">
+        <option value="add"> add </option>
+        <option value="sub"> subtract </option>
+        <option value="mul"> multiply </option>
+        <option value="div"> divide </option>
+    </select><br/>
+    <button type="button" onclick="onClick()"> submit Json </button><br/>
+    <label for="out"> result: </label>
+    <input id="out" type="number" name="out" size="50" disabled>
+</form>
+</body>
+<footer></footer>
+</html>

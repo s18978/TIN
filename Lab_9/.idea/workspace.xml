@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:git" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maste" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:retake" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35f2967f-136d-4684-b69f-e68619e2b6aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../university/subjects/GUItask03/GUItask03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APBD/tut_11/.idea/.idea.tut_11/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APBD/tut_9/.idea/.idea.tut_9/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APBDtest/APBDtest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GUItask03/GUItask03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Controllers/HelloWorldController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Controllers/HomeController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Controllers/MoviesController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Data/MvcMovieContext.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Migrations/20200606115410_InitialCreate.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Migrations/20200606115410_InitialCreate.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Migrations/MvcMovieContextModelSnapshot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Models/ErrorViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Models/Movie.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Models/MovieGenreViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Models/SeedData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/MvcMovie.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Startup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Views/HelloWorld/Index.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Views/HelloWorld/Welcome.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Views/Home/Index.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Views/Home/Privacy.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Views/Movies/Create.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Views/Movies/Delete.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Views/Movies/Details.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Views/Movies/Edit.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Views/Movies/Index.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Views/Shared/Error.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Views/Shared/_Layout.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Views/Shared/_ValidationScriptsPartial.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Views/_ViewImports.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/Views/_ViewStart.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/MigrationManager.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Migrations.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/MvcMovie.Views.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/MvcMovie.Views.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/MvcMovie.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/MvcMovie.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/MvcMovie.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/MvcMovie.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/MvcMovie.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/log4net.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.RazorAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.RazorAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.RazorCoreGenerate.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.RazorTargetAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.RazorTargetAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.TagHelpers.input.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.TagHelpers.output.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.Views.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.Views.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/Razor/Views/HelloWorld/Index.cshtml.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/Razor/Views/HelloWorld/Welcome.cshtml.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/Razor/Views/Movies/Create.cshtml.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/Razor/Views/Movies/Delete.cshtml.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/Razor/Views/Movies/Details.cshtml.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/Razor/Views/Movies/Edit.cshtml.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/Razor/Views/Movies/Index.cshtml.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/staticwebassets/MvcMovie.StaticWebAssets.Manifest.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/staticwebassets/MvcMovie.StaticWebAssets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/MvcMovie.csproj.EntityFrameworkCore.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/MvcMovie.csproj.codegeneration.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/MvcMovie.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/MvcMovie.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/MvcMovie.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/MvcMovie.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/css/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/js/site.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/jquery-validation/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/jquery-validation/dist/additional-methods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/jquery-validation/dist/jquery.validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/jquery/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/jquery/dist/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/jquery/dist/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MvcMovie/MvcMovie/wwwroot/lib/jquery/dist/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/.idea/.idea.Test2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/.idea/.idea.Test2/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/.idea/.idea.Test2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/.idea/.idea.Test2/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/.idea/.idea.Test2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/.idea/.idea.Test2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/.idea/.idea.Test2/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/.idea/.idea.Test2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/.idea/.idea.Test2/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/Test2.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/Test2/Test2.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/Test2/UnitTest1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/Test2/obj/Debug/netcoreapp3.1/Test2.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/Test2/obj/Debug/netcoreapp3.1/Test2.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/Test2/obj/Debug/netcoreapp3.1/Test2.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/Test2/obj/Debug/netcoreapp3.1/Test2.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/Test2/obj/Test2.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/Test2/obj/Test2.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/Test2/obj/Test2.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/Test2/obj/Test2.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/Test2/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/Test2/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2_v1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/.idea/.idea.Test_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/.idea/.idea.Test_2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Configuration/BreedTypeConfiguration.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Configuration/PetConfiguration.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Configuration/VolunteerConfiguration.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Configuration/Volunteer_PetConfiguration.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Controllers/PetController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Controllers/VolunteerController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Controllers/WeatherForecastController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/DTO/Request/GetPetRequest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/DTO/Request/PetRequest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/DTO/Response/GetPetResponse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/DTO/Response/PetResponse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Migrations/20200619111655_InitialCreate.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Migrations/20200619111655_InitialCreate.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Migrations/VolunteerDbContextModelSnapshot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Models/BreedType.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Models/Pet.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Models/Volunteer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Models/VolunteerDbContext.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Models/Volunteer_Pet.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Services/IVolunteerDbService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Services/VolunteerDbService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Startup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/Test_2.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/WeatherForecast.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/Test_2.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/Test_2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/Test_2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/Test_2.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/Test_2.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/Debug/netcoreapp3.1/Test_2.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/Debug/netcoreapp3.1/Test_2.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/Debug/netcoreapp3.1/Test_2.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/Debug/netcoreapp3.1/Test_2.RazorTargetAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/Debug/netcoreapp3.1/Test_2.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/Debug/netcoreapp3.1/Test_2.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/Debug/netcoreapp3.1/Test_2.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/Debug/netcoreapp3.1/Test_2.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/Debug/netcoreapp3.1/Test_2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/Debug/netcoreapp3.1/Test_2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/Debug/netcoreapp3.1/staticwebassets/Test_2.StaticWebAssets.Manifest.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/Debug/netcoreapp3.1/staticwebassets/Test_2.StaticWebAssets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/Test_2.csproj.EntityFrameworkCore.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/Test_2.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/Test_2.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/Test_2.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/Test_2.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_2/Test_2/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../university/subjects/NAI/NAI_01/NAI_01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../university/subjects/NAI/NAI_01/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../university/subjects/NAI/NAI_02/NAI_02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../university/subjects/PSM/PSMhm01/PSMhm01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../university/subjects/PSM/PSMhm02/PSMhm02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../university/subjects/PSM/PSMhm03/PSMhm03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../university/subjects/PSM/PSMhm04/PSMhm04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../university/subjects/PSM/PSMhm05/PSMhm05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../university/subjects/PSM/PSMhm06/PSMhm06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../university/subjects/PSM_hm08_s18978/PSM_hm08_s18978.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../university/subjects/TPO/TPO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../university/subjects/TPO/TPO_assignment03/TPO_assignment03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../university/subjects/TPO/TPOassignment01/TPOassignment01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../university/subjects/TPO/TPOassignment02/TPOassignment02.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1lLHt4eKqhDVLkwGZN6UZyO3aIg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="15.2.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.10" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35f2967f-136d-4684-b69f-e68619e2b6aa" name="Default Changelist" comment="" />
+      <created>1607369662508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607369662508</updated>
+      <workItem from="1607369663601" duration="888000" />
+      <workItem from="1607370598605" duration="1271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

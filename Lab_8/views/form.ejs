@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head> <meta charset="UTF-8"><%= title %> </title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<form>
+    <label for="n1" class="designed"> 1st number: </label>
+    <input id="n1" type="number" name="n1" size="30" required>
+    <br/>
+    <label for="n2" class="designed"> 2nd number: </label>
+    <input id="n2" type="number" name="n2" size="30" required>
+    <br/>
+    <label for="operation" class="designed"> operation: </label>
+    <select id="operation" name="operation">
+        <option value="add"> + </option>
+        <option value="sub"> - </option>
+    </select><br/>
+    <button type="submit" formaction="/formData"> submit </button>
+    <button type="submit" formaction="/jsonData" formmethod="post"> submit Json </button>
+</form>
+</body>
+<footer></footer>
+</html>
