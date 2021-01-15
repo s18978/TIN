@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> lab_10 </title>
+    <script src=main.js></script>
+</head>
+<body>
+<form name="distance">
+    <fieldset>
+        <legend> Distance convertion: </legend>
+        <label for="kilometers"> distance in kilometers: </label>
+        <input id="kilometers" type="number" name="kilometers" size="40"><br/>
+
+        <label for="miles"> distance in miles: </label>
+        <input id="miles" type="number" name="miles" size="40"><br/>
+
+        <label for="dBase"> choose the base: </label>
+        <select id="dBase" name="dBase">
+            <option value="K"> kilometers </option>
+            <option value="M"> miles </option>
+        </select>
+        <button type="button" onclick="convertDistance()"> convert </button>
+        <label for="distanceRes"> Distance convertation result: </label>
+        <input id="distanceRes" name="distanceRes" size="40" disabled>
+    </fieldset>
+</form>
+<form name="temperature">
+    <fieldset>
+        <legend> Temperature convertor: </legend>
+        <label for="celcius"> temperature in Celcius: </label>
+        <input id="celcius" type="number" name="celcius" size="40">
+        <br/>
+        <label for="fahrenheit"> temperature in Fahrenheit: </label>
+        <input id="fahrenheit" type="number" name="fahrenheit" size="40">
+        <br/>
+        <label for="kelvin"> temperature in Kelvin: </label>
+        <input id="kelvin" type="number" name="kelvin" size="40">
+        <br/>
+        <label for="tBase"> choose the base: </label>
+        <select id="tBase" name="tBase">
+            <option value="c"> Celcius </option>
+            <option value="f"> Fahrenheit </option>
+            <option value="k"> Kelvin </option>
+        </select>
+        <button type="button" onclick="convertTemperature()"> convert </button>
+        <label for="temperatureRes"> Temperature convertation result: </label>
+        <input id="temperatureRes" name="temperatureRes" size="40" disabled>
+    </fieldset>
+</form>
+</body>
+<footer>
+</footer>
+</html>
