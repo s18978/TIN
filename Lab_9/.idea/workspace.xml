@@ -431,7 +431,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607369662508</updated>
       <workItem from="1607369663601" duration="888000" />
-      <workItem from="1607370598605" duration="1271000" />
+      <workItem from="1607370598605" duration="1459000" />
     </task>
     <servers />
   </component>
@@ -449,5 +449,23 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1264" height="174" key="GridCell.Tab.0.bottom" timestamp="1607475470505">
+      <screen x="0" y="23" width="1400" height="877" />
+    </state>
+    <state width="1264" height="174" key="GridCell.Tab.0.bottom/0.23.1400.877@0.23.1400.877" timestamp="1607475470505" />
+    <state width="1264" height="174" key="GridCell.Tab.0.center" timestamp="1607475470504">
+      <screen x="0" y="23" width="1400" height="877" />
+    </state>
+    <state width="1264" height="174" key="GridCell.Tab.0.center/0.23.1400.877@0.23.1400.877" timestamp="1607475470504" />
+    <state width="1264" height="174" key="GridCell.Tab.0.left" timestamp="1607475470504">
+      <screen x="0" y="23" width="1400" height="877" />
+    </state>
+    <state width="1264" height="174" key="GridCell.Tab.0.left/0.23.1400.877@0.23.1400.877" timestamp="1607475470504" />
+    <state width="1264" height="174" key="GridCell.Tab.0.right" timestamp="1607475470504">
+      <screen x="0" y="23" width="1400" height="877" />
+    </state>
+    <state width="1264" height="174" key="GridCell.Tab.0.right/0.23.1400.877@0.23.1400.877" timestamp="1607475470504" />
   </component>
 </project>
